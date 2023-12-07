@@ -1,0 +1,9 @@
+console.log("Hello world!")
+
+/**** ... Minimal demo ****/
+
+const FALSE_POSITIVE_LIKE_CONFIG_DEFAULT_EXPORT = "DON'T TRIGGER ERROR UNLESS YOU EDIT THE ARTIFACT"
+// export const _ = "TRIGGERS ERROR, UNLESS THE BYPASS TWEAKER IN THE ARTIFACT ISN'T COMMENTED"
+export default FALSE_POSITIVE_LIKE_CONFIG_DEFAULT_EXPORT;
+
+/**** ! Minimal demo ****/
